@@ -1,6 +1,7 @@
 #include <iostream>
 #include<Windows.h>
 #include<iomanip>
+
 #define SQR(x) ((x)*(x)) // Макрос для вычисления квадрата числа
 int main()
 {
